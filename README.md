@@ -1,2 +1,6 @@
-# COP2002-Example-Repo
-For project 1
+# Creating a project for GitHub
+# By Isaac Steeber
+
+print("COP2002 Spring 2024")
+
++print("Im understanding how to use GitHub to keep track of changes!")
